@@ -70,6 +70,6 @@ Yan Duan, Lorena E. Rosaleny, Joana T. Coutinho, Silvia Giménez-Santamarina, Al
 Nature Communications volume 13, Article number: 7626 (2022). 
 https://chemistrycommunity.nature.com/posts/data-driven-design-of-molecular-nanomagnets 
 
-#############################################################################
+##############################################################################
 Any kind of question from this code, please contact: gerliz.gutierrez@uv.es
-#############################################################################
+##############################################################################
